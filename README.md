@@ -6,7 +6,7 @@ Series episodes are fetched every time a serie is selected, so they will be alwa
 
 Podcast categories
 ![podcast categories](https://github.com/giomatfois62/rofi-podcast/blob/main/screenshots/pocast_categories.png)
-Podcast series
+Podcast series 
 ![podcast series](https://github.com/giomatfois62/rofi-podcast/blob/main/screenshots/pocast_series.png)
-Podcast episodes
+Podcast episodes 
 ![podcast episodes](https://github.com/giomatfois62/rofi-podcast/blob/main/screenshots/pocast_episodes.png)
